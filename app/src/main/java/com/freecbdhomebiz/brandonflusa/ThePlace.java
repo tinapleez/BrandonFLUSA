@@ -4,10 +4,6 @@
 
 package com.freecbdhomebiz.brandonflusa;
 
-/**
- * Created by linuser1 on 6/29/18.
- */
-
 public class ThePlace {
 
     /**
@@ -23,7 +19,6 @@ public class ThePlace {
     private String mPhone;
     /** Image for the Place */
     private int mImageResourceId = NO_IMAGE_PROVIDED;
-
 
     /**
      *Create ThePlace object with 3 inputs
@@ -76,7 +71,4 @@ public class ThePlace {
     public boolean hasImage() {
         return mImageResourceId != NO_IMAGE_PROVIDED;
     }
-
-
-
 }

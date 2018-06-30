@@ -4,7 +4,6 @@
 
 package com.freecbdhomebiz.brandonflusa;
 
-
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
@@ -45,5 +44,4 @@ public class BurgersFragment extends Fragment {
 
         return rootView;
     }
-
 }

@@ -11,7 +11,6 @@ import android.support.design.widget.TabLayout;
 import android.view.View;
 import android.widget.Adapter;
 
-
 public class MainActivity extends AppCompatActivity {
 
     @Override

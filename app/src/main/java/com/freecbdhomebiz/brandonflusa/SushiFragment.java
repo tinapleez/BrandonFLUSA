@@ -4,14 +4,12 @@
 
 package com.freecbdhomebiz.brandonflusa;
 
-
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ListView;
-
 import java.util.ArrayList;
 
 /**
@@ -19,11 +17,9 @@ import java.util.ArrayList;
  */
 public class SushiFragment extends Fragment {
 
-
     public SushiFragment() {
         // Required empty public constructor
     }
-
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
@@ -46,5 +42,4 @@ public class SushiFragment extends Fragment {
 
         return rootView;
     }
-
 }

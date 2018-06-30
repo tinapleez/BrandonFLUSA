@@ -10,10 +10,6 @@ import android.support.annotation.Nullable;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 
-/**
- * Created by linuser1 on 6/29/18.
- */
-
 public class CuisineAdapter  extends FragmentPagerAdapter {
 
     /**
