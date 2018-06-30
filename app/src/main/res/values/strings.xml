@@ -1,0 +1,13 @@
+<!--
+  ~ Copyright (c) 2018. Tina Taylor All Rights Reserved
+  -->
+
+<resources>
+    <string name="app_name">Brandon FL USA</string>
+    <string name="cuisine_sushi">Sushi</string>
+    <string name="cuisine_pizza">Pizza</string>
+    <string name="cuisine_burgers">Burgers</string>
+    <string name="cuisine_sweets">Sweets</string>
+    <string name="hello_blank_fragment">Hello Blank Fragment</string>
+
+</resources>

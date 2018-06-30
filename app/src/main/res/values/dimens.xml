@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2018. Tina Taylor All Rights Reserved
+  -->
+
+<resources>
+    <dimen name="image_width">56dp</dimen>
+    <dimen name="image_height">56dp</dimen>
+    <dimen name="image_padding">8dp</dimen>
+    <dimen name="text_margin_left">56dp</dimen>
+    <dimen name="text_name_size">20sp</dimen>
+    <dimen name="text_address_size">18sp</dimen>
+    <dimen name="text_phone_size">18sp</dimen>
+    <dimen name="layout_padding">8dp</dimen>
+</resources>
